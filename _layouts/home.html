@@ -2,9 +2,14 @@
 layout: page
 ---
 
-{{ content }}
+<div class="intro-header"></div>
 
-{% assign posts = paginator.posts | default: site.posts %}
+<div role="main" class="container">
+  {{ content }}
+</div>
+
+
+<!-- {% assign posts = paginator.posts | default: site.posts %}
 
 <div class="posts-list">
   {% for post in posts %}
@@ -102,4 +107,4 @@ layout: page
   </li>
   {% endif %}
 </ul>
-{% endif %}
+{% endif %} -->
