@@ -262,7 +262,36 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-relative-links
+  - jekyll-scholar
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
 
+# configuration of jekyll-scholar (from "http://mghassany.com")
+
+scholar:
+  style: _bibliography/csl/journal-of-management.csl
+  locale: en
+  allow_locale_overrides: true
+
+  sort_by: author,timestamp
+  order: ascending
+
+  group_by: year
+  group_order: descending
+  bibliography_group_tag: h3
+  bibliography_list_tag: ul
+
+  source: _bibliography
+  # repository: files
+  bibliography: bib_chg_website
+  bibliography_template: bib
+
+  replace_strings: true
+  # bibtex_filters: latex,smallcaps,superscript
+
+  # details_dir:    bibliography
+  # details_layout: bibtex.html
+  # details_link:   Details
+
+  query: "@*"
