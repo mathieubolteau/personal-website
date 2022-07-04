@@ -11,6 +11,8 @@ title: Mathieu Bolteau | Ph.D Student in Bioinformatics
 # Your name to show in the footer
 author: Mathieu Bolteau
 
+url: "mathieubolteau.xyz"
+
 # --- List of links in the navigation bar --- #
 
 navbar-links:
@@ -66,7 +68,7 @@ social-network-links:
 #  calendly: yourname
 #  mastodon: instance.url/@username
   ORCID: 0000-0002-9261-5269
-  google-scholar: citations?user=eF3Tz8sAAAAJ&hl=en
+  google-scholar: citations?user=tPjY-CwAAAAJ&hl=en
   researchgate: Mathieu-Bolteau
 #  discord: invite/invite_code or users/userid 
 #  kaggle: yourname
