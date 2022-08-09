@@ -1,12 +1,14 @@
 ---
 layout: page
 title: Contact
-subtitle: Ph.D Student in Bioinformatics
 ---
 
 # Mail
 - [mathieu.bolteau@univ-nantes.fr](mailto:mathieu.bolteau@univ-nantes.fr) -- [PGP Public Key]({{ site.url }}/docs/openPGP_keys/PGP_UN.asc)
 - [mathieu.bolteau@ls2n.fr](mailto:mathieu.bolteau@ls2n.fr) -- [PGP Public Key]({{ site.url }}/docs/openPGP_keys/PGP_LS2N.asc)
+
+# Phone
++33 2 51 12 58 21
 
 # Address
 LS2N <br/>

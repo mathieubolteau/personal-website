@@ -6,8 +6,7 @@
 # --- Required options --- #
 
 # Name of website
-title: Mathieu Bolteau | Ph.D Student in Bioinformatics
-
+title: Mathieu Bolteau | Ph.D. Student in Computational Biology
 # Your name to show in the footer
 author: Mathieu Bolteau
 
@@ -297,3 +296,29 @@ scholar:
   # details_link:   Details
 
   query: "@*"
+
+
+collections:
+  communication:
+    2022:
+      output: false
+    2021:
+      output: false
+  popularization:
+    2022:
+      output: false
+    2021:
+      output: false
+  teachings:
+    2021-2022:
+      output: false
+    2022-2023:
+      output: false
+  others_activities:
+    output: false
+
+
+
+kramdown:
+  # parse markdown inside block-level HTML tag
+  parse_block_html: true

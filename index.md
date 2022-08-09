@@ -1,10 +1,10 @@
 ---
 layout: home
 title: Mathieu Bolteau
-subtitle: Ph.D Student in Bioinformatics
+subtitle: Ph.D. Student in Computational Biology
 ---
 
 
-# Welcome to my website!
+<!-- # Welcome to my website! -->
 
-Hello, my name is Mathieu and I’m a Ph.D student in Bioinformatics at Nantes University and at [LS2N](https://www.ls2n.fr/) lab in [Computational Biology team](https://www.ls2n.fr/equipe/combi/). Have a look around my website where I’ve written a little bit about myself.
+<p style='text-align: justify;'>I am currently a Ph.D. student in computational biology at the University of Nantes, **working on the modeling of human preimplantation development**. My research interests lie in various areas of biology and computer science, especially **systems biology**. I am also the **president of LOGIN**, the association of young researchers in digital science of Nantes, which brings together mainly Ph.D. students.</p>

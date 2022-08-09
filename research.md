@@ -1,14 +1,59 @@
 ---
 layout: page
 title: Research
-subtitle: Ph.D Student in Bioinformatics
 ---
 
 
-# Overwiew 
+# Overview 
 
-Work in progress...
+<p style='text-align: justify;'>With a lifelong interest in computational biology, I have been focusing more particularly on **systems biology** since my master's degree. Now, I am interested in **solving combinatorial problems** using [Answer Set Programming](https://potassco.org/). I discovered this logic programming paradigm during my master's internship when I was trying to solve a reachability problem in a graph. Currently, I am using this paradigm to **model human preimplantation development**, the subject of my thesis, through the **inference of Boolean networks**.</p>
 
+
+
+<!------------------ Social links buttons ------------------>
+
+
+<ul class="list-inline text-center footer-links">
+
+{%- if site.social-network-links.google-scholar -%}
+  <li class="list-inline-item">
+    <a href="https://scholar.google.com/{{ site.social-network-links.google-scholar }}" title="Google Scholar">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fa fa-graduation-cap fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">Google Scholar</span>
+    </a>
+  </li>
+{%- endif -%}
+
+{%- if site.social-network-links.ORCID -%}
+ <li class="list-inline-item">
+   <a href="https://orcid.org/{{ site.social-network-links.ORCID }}" title="ORCID">
+     <span class="fa-stack fa-lg" aria-hidden="true">
+       <i class="fas fa-circle fa-stack-2x"></i>
+       <i class="fab fa-orcid fa-stack-1x fa-inverse"></i>
+     </span>
+     <span class="sr-only">ORCID</span>
+   </a>
+ </li>
+{%- endif -%}
+
+{%- if site.social-network-links.researchgate -%}
+  <li class="list-inline-item">
+    <a href="https://www.researchgate.net/profile/{{ site.social-network-links.researchgate }}" title="ResearchGate">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fab fa-researchgate fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">ResearchGate</span>
+   </a>
+  </li>
+{%- endif -%}
+
+</ul>
+
+<!------------------ Publications ------------------>
 
 # Publications
 
@@ -25,13 +70,13 @@ And if you use reference managers (you should), you can get a file with all my p
 
 
 <a name="papers"></a>
-## Journal Articles
+<!-- ## Journal Articles -->
 <!-- \* Denotes student co-author.
 &dagger; Denotes post-doc co-author. -->
 
 {% bibliography --query @article %}
 
-&nbsp;  
+<!-- &nbsp;  
 &nbsp; 
 <a name="chapters"></a>
 ## Book Chapters  
@@ -42,7 +87,7 @@ And if you use reference managers (you should), you can get a file with all my p
 &nbsp; 
 <a name="chapters"></a>
 ## Proceedings Conference Papers
-<!-- (This list changes constantly. Check the Bib/RIS file to see all abstracts. ) -->
+(This list changes constantly. Check the Bib/RIS file to see all abstracts. )
 
 {% bibliography --query @inproceedings %}
 
@@ -52,6 +97,6 @@ And if you use reference managers (you should), you can get a file with all my p
 <a name="other"></a>
 ## Others
 
-{% bibliography --query @phdthesis && @mastersthesis %}
+{% bibliography --query @phdthesis && @mastersthesis %} -->
 
 
