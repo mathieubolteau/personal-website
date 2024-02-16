@@ -6,3 +6,4 @@ gemspec
 
 gem 'jekyll-relative-links'
 gem 'jekyll-scholar', group: :jekyll_plugins
+gem "webrick", "~> 1.8"
