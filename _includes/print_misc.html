@@ -1,0 +1,16 @@
+{% for category in include.misc %}
+<h3>{{ category.name }}</h3>
+<table class="withe-table">
+    {% for activity in category.values %}
+    <tr class="withe-table">
+        <th class="withe-table">{{ activity.period }}</th>
+
+        <td class="withe-table"><strong>{{ activity.name }}</strong><br />
+            {{ activity.at }}<br />
+            <em>{{ activity.role }}</em> 
+        </td>
+
+    </tr>
+        {% endfor %}
+</table>
+{% endfor %}

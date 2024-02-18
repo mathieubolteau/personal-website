@@ -1,0 +1,17 @@
+<table class="withe-table">
+    {% for item in include.items %}
+    <tr class="withe-table">
+        <th class="withe-table">{{ item.period }}</th>
+
+        <td class="withe-table">
+            <span class="text-primary"><strong>{{ item.kind }}</strong></span><br/>
+            <i>{{ item.at }}</i> <br>
+            {{ item.role }} <br>
+            {% if item.note %}<br> {{ item.note }}{% endif %}
+        </td>
+    </tr>
+        
+{% endfor %}
+</table>
+
+
