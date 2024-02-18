@@ -1,0 +1,9 @@
+---
+---
+<div>
+    <div class="text-justify">
+        {{reference}}
+        {% if entry.doi %}
+        <a target="_blank" href="{{ entry.doi | prepend: 'http://doi.org/' }}">{{ entry.doi | prepend: 'http://doi.org/' }}</a>
+        {% endif %}    
+</div>

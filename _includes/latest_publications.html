@@ -1,0 +1,9 @@
+{% assign max='now'|date:"%Y" %}
+{% assign min=max|minus: include.nbyears|plus: 1 %}
+{% assign smin=min|plus: "" %}
+
+<div class="ifjavascript">
+    <div class="publi_index" id="publications_recent">
+        {% bibliography -q @*[year>={{smin}}] -T bib_latest %}
+    </div>
+</div>
