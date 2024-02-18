@@ -1,0 +1,27 @@
+- period: 2021-...
+  kind: PhD Student
+  role: Logic programs to infer computational models of human embryonic development
+  at: <a href="https://www.ls2n.fr/equipe/combi/?lang=en" target="_blank">ComBi group</a> @ Laboratory of Digital Sciences in Nantes (LS2N) & Nantes University, Nantes, France
+  note: 'Under the supervision of <a href="http://jeremiebourdon.free.fr/wiki.php/Accueil" target="_blank">Jérémie Bourdon</a> (LS2N), <a href="https://www.linkedin.com/in/carito-guziolowski-a2935011/" target="_blank">Carito Guziowloski</a> (LS2N) and <a href="https://www.linkedin.com/in/laurentdavidnantes/" target="_blank">Laurent David</a> (CR2TI).
+        <p style="text-align: justify;"> Assisted reproductive technologies, and in particular in vitro fertilization (IVF), need new approaches to improve clinical outcomes of infertility treatments. The success rate of IVF cycles is only 25%. Despite promising technologies to consider each individual embryo, research on human embryos is too limited to systematically test hypothesis-driven research. Therefore, an essential aspect is to be able to generate a computational model of preimplantation development that will predict the impact of perturbations on the system. The objective of this thesis is to write logic programs and use state-of-the-art solvers to find models describing human embryonic cells and their development over time.</p>
+        '
+- period: 2021 (6 months)
+  kind: Research intern
+  role: Seed detection in metabolic networks
+  at: <a href="https://www.inria.fr/en/pleiade" target="_blank">Pleiade group</a> @ <a href="https://www.inria.fr/en" target="_blank">Inria</a>, Bordeaux, France
+  note: 'Under the supervision of <a href="https://cfrioux.github.io/index.html" target="_blank">Clémence Frioux</a>.'
+
+- period: 2020 (4 months)
+  kind: Bioinformatics technician
+  role: Bioinformatics technician in the Bioinformatics unit of the Biology and Pathology Pole of the Bordeaux University Hospital.
+  at: University Hospital of Bordeaux, Bordeaux, France
+  
+- period: 2020 (4 months)
+  kind: Research intern
+  role: TODO
+  at: <a href="https://umr1089.univ-nantes.fr/" target="_blank">Translational Research in Gene Therapy (TaRGet)</a>, Nantes, France
+  note: 'Under the supervision of <a href="https://www.linkedin.com/in/emilie-lecomte-bb092427/?originalSubdomain=fr" target="_blank">Émilie Lecomte</a>.
+  <p style="text-align: justify;">Implementation of a PCR-free protocol to prepare DNAs for Illumina sequencing. <br/>Development of SSV-Coverage, a program in Python 3 allowing the creation of a coverage graph.</p>'
+  
+
+  

@@ -1,0 +1,26 @@
+- name: 
+  values:
+  - period: 2023-2024
+    name: Graduate School - Master
+    role: Bioinformatics - Practical works (TP)
+    at: <a href="https://sciences-techniques.univ-nantes.fr/formations/masters/master-biologie-sante" target="_blank">Nantes University</a> - Graduate School Biology
+
+  - period: 2022-2024
+    name: Bachelor
+    role: Introduction to computer science - Workshops (TD) and practical works (TP)
+    at: <a href="https://sciences-techniques.univ-nantes.fr/formations/licences-generales/double-diplome-licence-physique-chimie" target="_blank">Nantes University</a> - 1st year of Double Bachelor Physics and Chemistry
+
+  - period: 2022-2024
+    name: Bachelor
+    role: Introduction to computer science - Workshops (TD) and practical works (TP)
+    at: <a href="https://sciences-techniques.univ-nantes.fr/formations/licences-generales/licence-sciences-de-la-vie" target="_blank">Nantes University</a> - 1st year of Bachelor Biology
+
+  - period: 2021-2022
+    name: Engineering school
+    role: Algorithmic and programming - Practical works (TP)
+    at: <a href="https://www.ec-nantes.fr" target="_blank">Centrale Nantes Engineering school</a> - 1st year
+
+  - period: 2021-2023
+    name: Master
+    role: Machine Learning - Practical works (TP)
+    at: <a href="https://sciences-techniques.univ-nantes.fr/formations/masters/master-informatique" target="_blank">Nantes University</a> - Computer science Master's degree

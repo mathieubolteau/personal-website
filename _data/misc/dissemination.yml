@@ -1,0 +1,34 @@
+- name: Scientific communication
+  values:
+  - period: 2023
+    name: Inferring Boolean Networks from Single-Cell Human Embryo Datasets
+    role: Talk - <a target="_blank" href="{{ site.url }}/docs/communication_pdfs/TODO.pdf">PDF</a> 
+    at: ISBRA Conference, Wrocław, Poland 
+  - period: 2023
+    name: Boolean networks as a framework to model human preimplantation development
+    role: Talk - <a target="_blank" href="{{ site.url }}/docs/communication_pdfs/TODO.pdf">PDF</a> &
+          Poster - <a target="_blank" href="{{ site.url }}/docs/communication_pdfs/TODO.pdf">PDF</a>
+    at: ISMB/ECCB Conference, Lyon, France
+  - period: 2022
+    name: Logic programs to infer computational models of human pre-implantation embryonic development
+    role: Poster - <a target="_blank" href="{{ site.url }}/docs/communication_pdfs/20220705_JoBIM22.pdf">PDF</a>
+    at: JoBIM Conference, Rennes, France
+    
+ 
+
+- name: Scientific popularization
+  values:
+  - period: 2023
+    name: Speed Meeting
+    role: Speaking about my research for mainstream 
+    at: <i>Nuit blanche des chercheur·es</i>, Nantes, France
+  - period: 2022
+    name: Mainstream workshop about AI
+    role: Communication and animation of some workshops about AI
+    at: <i>Nuit blanche des chercheur·es</i>, Nantes, France
+  - period: 2022
+    name: Programmes logiques pour déduire des modèles computationnels du développement embryonnaire humain
+    role: Poster - <a target="_blank" href="{{ site.url }}/docs/communication_pdfs/20220434_IA_at_museum.pdf">PDF</a>
+    at: <i>L’I.A. nantaise s’invite au muséum ! </i>, Natural History Museum, Nantes, France 
+ 
+  

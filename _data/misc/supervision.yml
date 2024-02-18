@@ -1,0 +1,11 @@
+- name: Student Project
+  values:
+  - period: 2022 - 2023
+    name: Four students of Centrale Nantes Engineering school
+    role: Dynamical modeling of human embryonic development - co-supervision with C. Guziolowski
+    at: Centrale Nantes x Laboratory of Digital Sciences of Nantes (LS2N)
+
+  - period: 2022 - 2023
+    name: Four students of Centrale Nantes Engineering school
+    role: TODO - co-supervision with C. Guziolowski
+    at: Centrale Nantes x Laboratory of Digital Sciences of Nantes (LS2N)
